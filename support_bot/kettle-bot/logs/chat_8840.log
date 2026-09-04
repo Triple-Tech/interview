@@ -1,0 +1,21 @@
+[2026-08-25 16:02:10] USER: hello
+[2026-08-25 16:02:13] BOT: Hi there! Welcome to Kettle & Crate support, I'm Kettle. I'm sorry to hear something's gone wrong. What happened with your order?
+[2026-08-25 16:02:40] USER: one of the knives is missing from the set i ordered
+[2026-08-25 16:02:44] BOT: Oh no, I'm sorry about that! We'll get it sorted. Could I have your full name?
+[2026-08-25 16:02:55] USER: Tom Bradley
+[2026-08-25 16:02:58] BOT: Thanks, Tom. What's your email address?
+[2026-08-25 16:03:10] USER: tom.bradley@gmail.com
+[2026-08-25 16:03:13] BOT: And your order number, starting with KC-?
+[2026-08-25 16:03:30] USER: KC-21388
+[2026-08-25 16:03:33] BOT: Got it. Which item is this about?
+[2026-08-25 16:03:48] USER: the 6 piece chef's knife set
+[2026-08-25 16:03:51] BOT: Thank you. And what exactly went wrong?
+[2026-08-25 16:04:05] USER: the paring knife isn't in the box. the slot for it is empty
+[2026-08-25 16:04:09] BOT: I'm sorry about that. What would you like us to do? A refund, a replacement, or something else?
+[2026-08-25 16:04:20] USER: just send the missing knife
+[2026-08-25 16:04:23] BOT: Of course. And what's the best email address to reach you at?
+[2026-08-25 16:04:38] USER: I already gave it. tom.bradley@gmail.com
+[2026-08-25 16:04:41] BOT: Apologies, Tom, thank you. Lastly, a phone number in case we need to call you?
+[2026-08-25 16:04:55] USER: 917 555 0163
+[2026-08-25 16:05:00] BOT: Thank you, Tom! Your complaint has been filed and someone from our team will be in touch within 2 business days to send out your missing paring knife. Sorry again for the hassle!
+COMPLAINT_JSON: {"name": "Tom Bradley", "email": "tom.bradley@gmail.com", "order_number": "KC-21388", "item": "6-piece chef's knife set", "issue": "Paring knife missing from the set", "resolution": "send the missing paring knife", "phone": "917 555 0163"}

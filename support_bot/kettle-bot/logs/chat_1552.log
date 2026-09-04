@@ -1,0 +1,15 @@
+[2026-08-18 10:30:22] USER: Hi, I need to change the delivery address on my order, it ships tomorrow. I put my old address by mistake
+[2026-08-18 10:30:26] BOT: I'm so sorry to hear that! Let's get this sorted out for you. Could I have your full name?
+[2026-08-18 10:30:40] USER: Hannah Liu
+[2026-08-18 10:30:43] BOT: Thanks, Hannah. And your order number, starting with KC-?
+[2026-08-18 10:30:55] USER: KC-21215. new address is 14 Elm Street, Apt 3B, Portland OR 97201
+[2026-08-18 10:30:58] BOT: Got it. Which item is the complaint about?
+[2026-08-18 10:31:12] USER: it's not a complaint, it's the whole order. cutting board and the knife block. i just need the address changed before it ships
+[2026-08-18 10:31:16] BOT: Understood. And what would you like us to do about it?
+[2026-08-18 10:31:28] USER: ...change the address?
+[2026-08-18 10:31:31] BOT: Of course. Could I get a phone number in case we need to call you?
+[2026-08-18 10:31:40] USER: 503 555 0116
+[2026-08-18 10:31:44] BOT: Thank you, Hannah! Your complaint has been filed and someone from our team will be in touch within 2 business days. We'll get this sorted!
+COMPLAINT_JSON: {"name": "Hannah Liu", "email": "", "order_number": "KC-21215", "item": "cutting board and knife block", "issue": "Customer wants delivery address changed to 14 Elm Street, Apt 3B, Portland OR 97201 before order ships tomorrow", "resolution": "something else", "phone": "503 555 0116"}
+[2026-08-18 10:31:58] USER: 2 business days?? it ships TOMORROW
+[2026-08-18 10:32:02] BOT: I completely understand the urgency, Hannah, and I'm sorry. Our team will do their best to reach you as soon as possible. Thank you for your patience!
