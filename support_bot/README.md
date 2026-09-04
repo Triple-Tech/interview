@@ -10,9 +10,7 @@ This is the message we got from their head of customer operations:
 
 That is the whole brief. Everything the employee left behind is in `kettle-bot`, including his README and the logs from the weeks it has been running.
 
-Do what you would do if this landed on your desk. Four hours is the budget, and we do not expect everything to be finished. Use whatever tools you normally use, AI ones included.
-
-The API key in the repo no longer works. Use your own OpenAI or Anthropic key. If you don't have one, tell us and we will send you one.
+Do what you would do if this landed on your desk. Use whatever tools you normally use, AI ones included.
 
 ## Submitting
 
