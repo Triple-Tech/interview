@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4821,
+    "date": "2026-08-11 09:17",
+    "name": "Maya Thornton",
+    "email": "maya.thornton@gmail.com",
+    "order_no": null,
+    "item": "Nordic stand mixer, sage green",
+    "issue": "Bowl arrived with a 10cm crack down the side, mixer itself works",
+    "resolution": "replacement bowl"
+  },
+  {
+    "id": 7733,
+    "date": "2026-08-13 19:50",
+    "name": "Derek Osei",
+    "email": "d.osei@outlook.com",
+    "order_no": null,
+    "item": "5.5 qt Dutch oven, terracotta (sale item)",
+    "issue": "Colour does not match website photos, arrived bright orange instead of reddish brown, customer has photos",
+    "resolution": "full refund"
+  },
+  {
+    "id": 1552,
+    "date": "2026-08-18 10:31",
+    "name": "Hannah Liu",
+    "email": "",
+    "order_no": null,
+    "item": "cutting board and knife block",
+    "issue": "Customer wants delivery address changed to 14 Elm Street, Apt 3B, Portland OR 97201 before order ships tomorrow",
+    "resolution": "something else"
+  },
+  {
+    "id": 8840,
+    "date": "2026-08-25 16:06",
+    "name": "Tom Bradley",
+    "email": "tom.bradley@gmail.com",
+    "order_no": null,
+    "item": "6-piece chef's knife set",
+    "issue": "Paring knife missing from the set",
+    "resolution": "send the missing paring knife"
+  }
+]
