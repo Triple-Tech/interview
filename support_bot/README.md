@@ -14,6 +14,14 @@ That is the whole brief. Everything the employee left behind is in `kettle-bot`,
 
 Do what you would do if this landed on your desk. Use whatever tools you normally use, AI ones included.
 
+## Optional extra
+
+This part is optional. If you take it on, add a short section to your README and we will talk it through on the call.
+
+Since it went live, the bot has talked to a lot of customers, but Kettle & Crate has had almost no visibility into how it is doing. Management has doubts about the project and is considering shutting the bot down. The customer support team, on the other hand, is excited about what it could become.
+
+You have a meeting coming up with both groups. How would you approach it?
+
 ## Submitting
 
 When you are done, send us a repo with your work: a fork, or a fresh repo with the folder copied in (invite a-zamfir if it's private). Include a README covering how to run it, what you changed and why, what you chose not to do, and how you used AI along the way. We will then set up a call to go through it together.
